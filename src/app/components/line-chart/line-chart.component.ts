@@ -11,6 +11,7 @@ import { Chart } from 'chart.js/auto';
 export class LineChartComponent {
   public chart: any;
   @Input() areas: any[] = [];
+  @Input() areaName: string = '';
   // areas = input.required<any[]>();
   labels: string[] = [];
   data: number[] = [];
@@ -71,7 +72,7 @@ export class LineChartComponent {
           },
           title: {
             display: true,
-            text: 'Employee',
+            text: this.areaName,
           },
         },
         responsive: true,

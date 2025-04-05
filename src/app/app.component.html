@@ -87,7 +87,9 @@
   } @if(displayedAreas.length){
 
   <div style="margin: 32px">
-    <app-line-chart [areas]="areas"></app-line-chart>
+    <app-line-chart [areas]="areas"
+    [areaName]="area"
+    ></app-line-chart>
   </div>
   } }
 </section>
