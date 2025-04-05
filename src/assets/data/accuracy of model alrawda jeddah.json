@@ -1,0 +1,183 @@
+{
+  "Sheet1": [
+    {
+      "history": "2014(1)",
+      "actual price": 8002,
+      "predict price": 7965,
+      "percentage": 1.004645323289391
+    },
+    {
+      "history": "2014(2)",
+      "actual price": 7901,
+      "predict price": 7954,
+      "percentage": 0.993336685944179
+    },
+    {
+      "history": "2015(1)",
+      "actual price": 8120,
+      "predict price": 8163,
+      "percentage": 0.9947323288006861
+    },
+    {
+      "history": "2015(2)",
+      "actual price": 8070,
+      "predict price": 8214,
+      "percentage": 0.9824689554419284
+    },
+    {
+      "history": "2016(1)",
+      "actual price": 7824,
+      "predict price": 8114,
+      "percentage": 0.9642593049051023
+    },
+    {
+      "history": "2016(2)",
+      "actual price": 7139,
+      "predict price": 8036,
+      "percentage": 1.125647849838913
+    },
+    {
+      "history": "2017(1)",
+      "actual price": 6747,
+      "predict price": 7856,
+      "percentage": 1.1643693493404477
+    },
+    {
+      "history": "2017(2)",
+      "actual price": 6482,
+      "predict price": 7432,
+      "percentage": 0.8721743810548978
+    },
+    {
+      "history": "2018(1)",
+      "actual price": 4870,
+      "predict price": 5236,
+      "percentage": 0.9300993124522536
+    },
+    {
+      "history": "2018(2)",
+      "actual price": 4835,
+      "predict price": 4961,
+      "percentage": 0.9746018947792784
+    },
+    {
+      "history": "2019(1)",
+      "actual price": 4423,
+      "predict price": 4230,
+      "percentage": 1.045626477541371
+    },
+    {
+      "history": "2019(2)",
+      "actual price": 4878,
+      "predict price": 4365,
+      "percentage": 1.1175257731958763
+    },
+    {
+      "history": "2020(1)",
+      "actual price": 4717,
+      "predict price": 4598,
+      "percentage": 0.9747721009115964
+    },
+    {
+      "history": "2020(2)",
+      "actual price": 5169,
+      "predict price": 4987,
+      "percentage": 0.9647900947958986
+    },
+    {
+      "history": "2021(1)",
+      "actual price": 4956,
+      "predict price": 5162,
+      "percentage": 1.0415657788539145
+    },
+    {
+      "history": "2021(2)",
+      "actual price": 5029,
+      "predict price": 5289,
+      "percentage": 0.9508413688788051
+    },
+    {
+      "history": "2022(1)",
+      "actual price": 5409,
+      "predict price": 5369,
+      "percentage": 1.0074501769417024
+    },
+    {
+      "history": "2022(2)",
+      "actual price": 5763,
+      "predict price": 5678,
+      "percentage": 1.0149700598802396
+    },
+    {
+      "history": "2023(1)",
+      "actual price": 6218,
+      "predict price": 5941,
+      "percentage": 1.0466251472816024,
+      "max": "schools, hospitals,electricity",
+      "min": "population (-)",
+      "median": "puplict transportation"
+    },
+    {
+      "history": "2023(2)",
+      "actual price": 6355,
+      "predict price": 6153,
+      "percentage": 1.032829514058183,
+      "max": "hospital",
+      "min": "population (-)",
+      "median": "GDP"
+    },
+    {
+      "history": "2024(1)",
+      "predict price": 8438,
+      "percentage": 1.0101665939093132
+    },
+    {
+      "history": "2024(2)",
+      "predict price": 8626
+    },
+    {
+      "history": "2025(1)",
+      "predict price": 8809
+    },
+    {
+      "history": "2025(2)",
+      "predict price": 10960
+    },
+    {
+      "history": "2026(1)",
+      "predict price": 11329
+    },
+    {
+      "history": "2026(2)",
+      "predict price": 11693
+    },
+    {
+      "history": "2027(1)",
+      "predict price": 12053
+    },
+    {
+      "history": "2027(2)",
+      "predict price": 12410
+    },
+    {
+      "history": "2028(1)",
+      "predict price": 12763
+    },
+    {
+      "history": "2028(2)",
+      "predict price": 13112
+    },
+    {
+      "history": "2029(1)",
+      "predict price": 13459
+    },
+    {
+      "history": "2029(2)",
+      "predict price": 13802
+    },
+    {
+      "history": 2030,
+      "predict price": 14143
+    }
+  ]
+}

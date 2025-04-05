@@ -1,0 +1,187 @@
+{
+  "Sheet1": [
+    {
+      "history": "2014(1)",
+      "actual price": 1001,
+      "predict price": 1000,
+      "percentage": 1.001
+    },
+    {
+      "history": "2014(2)",
+      "actual price": 1064,
+      "predict price": 1036,
+      "percentage": 1.027027027027027
+    },
+    {
+      "history": "2015(1)",
+      "actual price": 1123,
+      "predict price": 1123,
+      "percentage": 1
+    },
+    {
+      "history": "2015(2)",
+      "actual price": 1093,
+      "predict price": 1236,
+      "percentage": 0.8843042071197411
+    },
+    {
+      "history": "2016(1)",
+      "actual price": 899,
+      "predict price": 956,
+      "percentage": 0.9403765690376569
+    },
+    {
+      "history": "2016(2)",
+      "actual price": 936,
+      "predict price": 945,
+      "percentage": 1.0096153846153846
+    },
+    {
+      "history": "2017(1)",
+      "actual price": 832,
+      "predict price": 912,
+      "percentage": 1.0961538461538463
+    },
+    {
+      "history": "2017(2)",
+      "actual price": 734,
+      "predict price": 936,
+      "percentage": 0.7841880341880342
+    },
+    {
+      "history": "2018(1)",
+      "actual price": 720,
+      "predict price": 845,
+      "percentage": 0.8520710059171598
+    },
+    {
+      "history": "2018(2)",
+      "actual price": 725,
+      "predict price": 801,
+      "percentage": 0.9051186017478152
+    },
+    {
+      "history": "2019(1)",
+      "actual price": 905,
+      "predict price": 745,
+      "percentage": 1.2147651006711409
+    },
+    {
+      "history": "2019(2)",
+      "actual price": 946,
+      "predict price": 863,
+      "percentage": 1.0961761297798378
+    },
+    {
+      "history": "2020(1)",
+      "actual price": 1040,
+      "predict price": 952,
+      "percentage": 0.9153846153846154
+    },
+    {
+      "history": "2020(2)",
+      "actual price": 1150,
+      "predict price": 1036,
+      "percentage": 0.9008695652173913
+    },
+    {
+      "history": "2021(1)",
+      "actual price": 1347,
+      "predict price": 1126,
+      "percentage": 0.835931700074239
+    },
+    {
+      "history": "2021(2)",
+      "actual price": 1411,
+      "predict price": 1259,
+      "percentage": 1.1207307386814933
+    },
+    {
+      "history": "2022(1)",
+      "actual price": 1605,
+      "predict price": 1596,
+      "percentage": 1.005639097744361
+    },
+    {
+      "history": "2022(2)",
+      "actual price": 1764,
+      "predict price": 1645,
+      "percentage": 1.0723404255319149
+    },
+    {
+      "history": "2023(1)",
+      "actual price": 1751,
+      "predict price": 1689,
+      "percentage": 1.0367081113084666,
+      "max": "schools, hospitals,electricity",
+      "min": "population (-)",
+      "median": "puplict transportation"
+    },
+    {
+      "history": "2023(2)",
+      "actual price": 1604,
+      "predict price": 1730,
+      "percentage": 0.9271676300578034,
+      "max": "hospital",
+      "min": "population (-)",
+      "median": "GDP"
+    },
+    {
+      "actual price": 1132.5,
+      "predict price": 1121.55
+    },
+    {
+      "history": "2024(1)",
+      "predict price": 1649,
+      "percentage": 0.9812783895128966
+    },
+    {
+      "history": "2024(2)",
+      "predict price": 1686
+    },
+    {
+      "history": "2025(1)",
+      "predict price": 1723
+    },
+    {
+      "history": "2025(2)",
+      "predict price": 2144
+    },
+    {
+      "history": "2026(1)",
+      "predict price": 2217
+    },
+    {
+      "history": "2026(2)",
+      "predict price": 2289
+    },
+    {
+      "history": "2027(1)",
+      "predict price": 2360
+    },
+    {
+      "history": "2027(2)",
+      "predict price": 2430
+    },
+    {
+      "history": "2028(1)",
+      "predict price": 2500
+    },
+    {
+      "history": "2028(2)",
+      "predict price": 2569
+    },
+    {
+      "history": "2029(1)",
+      "predict price": 2637
+    },
+    {
+      "history": "2029(2)",
+      "predict price": 2705
+    },
+    {
+      "history": 2030,
+      "predict price": 2772
+    }
+  ]
+}

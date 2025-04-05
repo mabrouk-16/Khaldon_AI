@@ -1,0 +1,72 @@
+{
+  "Sheet1": [
+    {
+      "history": 2017,
+      "actual price": 709,
+      "predict price": 695,
+      "percentage": 0.9802538787023978,
+      "max": "school, interest",
+      "min": "rental",
+      "median": "gdp"
+    },
+    {
+      "history": 2018,
+      "actual price": 609,
+      "predict price": 709,
+      "percentage": 0.8589562764456982,
+      "max": "hospital, school, inflation",
+      "min": "rental",
+      "median": "hotel"
+    },
+    {
+      "history": 2019,
+      "actual price": 985,
+      "predict price": 969,
+      "percentage": 0.983756345177665,
+      "max": "hospital, school",
+      "min": "population min",
+      "median": "GDP"
+    },
+    {
+      "history": 2020,
+      "actual price": 1132,
+      "predict price": 1037,
+      "percentage": 0.916077738515901,
+      "max": "schools,interest ,hospitals",
+      "min": "renatl yield",
+      "median": "libraries"
+    },
+    {
+      "history": 2021,
+      "actual price": 1279,
+      "predict price": 1397,
+      "percentage": 0.9155332856120257,
+      "max": "Schools max",
+      "min": "renatl yield",
+      "median": "puplic transportation median"
+    },
+    {
+      "history": 2022,
+      "actual price": 1372,
+      "predict price": 1499,
+      "percentage": 0.9152768512341561,
+      "max": "interest rate",
+      "min": "population min",
+      "median": "libraries"
+    },
+    {
+      "history": 2023,
+      "actual price": 1244,
+      "predict price": 1318,
+      "percentage": 0.9438543247344461,
+      "max": "Schools max",
+      "min": "population min",
+      "median": "puplic transportation median"
+    },
+    {
+      "history": 2024,
+      "predict price": 1656,
+      "percentage": 0.9305298143460414
+    }
+  ]
+}

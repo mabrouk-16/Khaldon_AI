@@ -1,0 +1,59 @@
+{
+  "Sheet1": [
+    {
+      "history": 2014,
+      "actual price": 2381
+    },
+    {
+      "history": 2015,
+      "actual price": 2215
+    },
+    {
+      "history": 2016,
+      "actual price": 1934
+    },
+    {
+      "history": 2017,
+      "actual price": 1958
+    },
+    {
+      "history": 2018,
+      "actual price": 2016
+    },
+    {
+      "history": 2019,
+      "actual price": 2453,
+      "predict price": 1366,
+      "percentage": 1.7957540263543192
+    },
+    {
+      "history": 2020,
+      "actual price": 2772,
+      "predict price": 1386,
+      "percentage": 2
+    },
+    {
+      "history": 2021,
+      "actual price": 3961,
+      "predict price": 1788,
+      "percentage": 2.215324384787472
+    },
+    {
+      "history": 2022,
+      "actual price": 4987,
+      "predict price": 1936,
+      "percentage": 2.5759297520661155
+    },
+    {
+      "history": 2023,
+      "actual price": 5203,
+      "predict price": 2096,
+      "percentage": 2.4823473282442747
+    },
+    {
+      "history": 2024,
+      "predict price": 2203,
+      "percentage": 2.2138710982904364
+    }
+  ]
+}

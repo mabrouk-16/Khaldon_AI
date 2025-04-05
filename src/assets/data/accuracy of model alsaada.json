@@ -1,0 +1,39 @@
+{
+  "Sheet1": [
+    {
+      "history": 2019,
+      "actual price": 1612,
+      "predict price": 2256,
+      "percentage": 0.7145390070921985
+    },
+    {
+      "history": 2020,
+      "actual price": 1802,
+      "predict price": 2241,
+      "percentage": 0.8041053101294066
+    },
+    {
+      "history": 2021,
+      "actual price": 2372,
+      "predict price": 2807,
+      "percentage": 0.845030281439259
+    },
+    {
+      "history": 2022,
+      "actual price": 2512,
+      "predict price": 2970,
+      "percentage": 0.8457912457912458
+    },
+    {
+      "history": 2023,
+      "actual price": 2565,
+      "predict price": 3158,
+      "percentage": 0.8122229259024699
+    },
+    {
+      "history": 2024,
+      "predict price": 3301,
+      "percentage": 0.8043377540709159
+    }
+  ]
+}

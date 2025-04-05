@@ -1,0 +1,183 @@
+{
+  "Sheet1": [
+    {
+      "history": "2014(1)",
+      "actual price": 590,
+      "predict price": 609,
+      "percentage": 0.9688013136288999
+    },
+    {
+      "history": "2014(2)",
+      "actual price": 639,
+      "predict price": 638,
+      "percentage": 0.9984350547730829
+    },
+    {
+      "history": "2015(1)",
+      "actual price": 600,
+      "predict price": 603,
+      "percentage": 0.9950248756218906
+    },
+    {
+      "history": "2015(2)",
+      "actual price": 650,
+      "predict price": 600,
+      "percentage": 0.9230769230769231
+    },
+    {
+      "history": "2016(1)",
+      "actual price": 700,
+      "predict price": 664,
+      "percentage": 0.9485714285714286
+    },
+    {
+      "history": "2016(2)",
+      "actual price": 750,
+      "predict price": 735,
+      "percentage": 0.98
+    },
+    {
+      "history": "2017(1)",
+      "actual price": 800,
+      "predict price": 796,
+      "percentage": 0.995
+    },
+    {
+      "history": "2017(2)",
+      "actual price": 835,
+      "predict price": 732,
+      "percentage": 0.8766467065868263
+    },
+    {
+      "history": "2018(1)",
+      "actual price": 870,
+      "predict price": 857,
+      "percentage": 0.9850574712643678
+    },
+    {
+      "history": "2018(2)",
+      "actual price": 897,
+      "predict price": 881,
+      "percentage": 0.9821627647714605
+    },
+    {
+      "history": "2019(1)",
+      "actual price": 1157,
+      "predict price": 930,
+      "percentage": 0.8038029386343993
+    },
+    {
+      "history": "2019(2)",
+      "actual price": 1190,
+      "predict price": 1029,
+      "percentage": 0.8647058823529412
+    },
+    {
+      "history": "2020(1)",
+      "actual price": 1188,
+      "predict price": 1214,
+      "percentage": 0.9785831960461285
+    },
+    {
+      "history": "2020(2)",
+      "actual price": 1357,
+      "predict price": 1322,
+      "percentage": 0.974207811348563
+    },
+    {
+      "history": "2021(1)",
+      "actual price": 1631,
+      "predict price": 1611,
+      "percentage": 0.987737584304108
+    },
+    {
+      "history": "2021(2)",
+      "actual price": 1844,
+      "predict price": 1711,
+      "percentage": 0.9278741865509761
+    },
+    {
+      "history": "2022(1)",
+      "actual price": 1942,
+      "predict price": 1822,
+      "percentage": 0.9382080329557158
+    },
+    {
+      "history": "2022(2)",
+      "actual price": 1936,
+      "predict price": 1936,
+      "percentage": 1
+    },
+    {
+      "history": "2023(1)",
+      "actual price": 2228,
+      "predict price": 2027,
+      "percentage": 0.9097845601436265,
+      "max": "schools, hospitals,electricity",
+      "min": "population (-)",
+      "median": "puplict transportation"
+    },
+    {
+      "history": "2023(2)",
+      "actual price": 2255,
+      "predict price": 2143,
+      "percentage": 0.9503325942350332,
+      "max": "hospital",
+      "min": "population (-)",
+      "median": "GDP"
+    },
+    {
+      "history": "2024(1)",
+      "predict price": 2246,
+      "percentage": 0.9494006662433186
+    },
+    {
+      "history": "2024(2)",
+      "predict price": 2217
+    },
+    {
+      "history": "2025(1)",
+      "predict price": 2301
+    },
+    {
+      "history": "2025(2)",
+      "predict price": 2383
+    },
+    {
+      "history": "2026(1)",
+      "predict price": 2464
+    },
+    {
+      "history": "2026(2)",
+      "predict price": 2544
+    },
+    {
+      "history": "2027(1)",
+      "predict price": 2623
+    },
+    {
+      "history": "2027(2)",
+      "predict price": 2702
+    },
+    {
+      "history": "2028(1)",
+      "predict price": 2779
+    },
+    {
+      "history": "2028(2)",
+      "predict price": 2856
+    },
+    {
+      "history": "2029(1)",
+      "predict price": 2932
+    },
+    {
+      "history": "2029(2)",
+      "predict price": 3008
+    },
+    {
+      "history": 2030,
+      "predict price": 3083
+    }
+  ]
+}

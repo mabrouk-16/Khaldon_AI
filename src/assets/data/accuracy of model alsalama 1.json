@@ -1,0 +1,183 @@
+{
+  "Sheet1": [
+    {
+      "history": "2014(1)",
+      "actual price": 6788,
+      "predict price": 6533,
+      "percentage": 0.9624337065409546
+    },
+    {
+      "history": "2014(2)",
+      "actual price": 6885,
+      "predict price": 6952,
+      "percentage": 1.0097312999273784
+    },
+    {
+      "history": "2015(1)",
+      "actual price": 6875,
+      "predict price": 6987,
+      "percentage": 0.9839702304279376
+    },
+    {
+      "history": "2015(2)",
+      "actual price": 6604,
+      "predict price": 6822,
+      "percentage": 1.0330102967898243
+    },
+    {
+      "history": "2016(1)",
+      "actual price": 6342,
+      "predict price": 6935,
+      "percentage": 1.0935036266162095
+    },
+    {
+      "history": "2016(2)",
+      "actual price": 6336,
+      "predict price": 6523,
+      "percentage": 0.9713322091062394
+    },
+    {
+      "history": "2017(1)",
+      "actual price": 5225,
+      "predict price": 5120,
+      "percentage": 1.0205078125
+    },
+    {
+      "history": "2017(2)",
+      "actual price": 4987,
+      "predict price": 4852,
+      "percentage": 1.027823577906018
+    },
+    {
+      "history": "2018(1)",
+      "actual price": 3995,
+      "predict price": 4387,
+      "percentage": 0.9106450877592888
+    },
+    {
+      "history": "2018(2)",
+      "actual price": 3640,
+      "predict price": 3716,
+      "percentage": 0.9795479009687836
+    },
+    {
+      "history": "2019(1)",
+      "actual price": 3652,
+      "predict price": 4362,
+      "percentage": 0.8372306281522237
+    },
+    {
+      "history": "2019(2)",
+      "actual price": 4189,
+      "predict price": 5110,
+      "percentage": 0.8197651663405088
+    },
+    {
+      "history": "2020(1)",
+      "actual price": 4294,
+      "predict price": 4441,
+      "percentage": 0.9668993469939203
+    },
+    {
+      "history": "2020(2)",
+      "actual price": 4837,
+      "predict price": 4780,
+      "percentage": 0.9882158362621459
+    },
+    {
+      "history": "2021(1)",
+      "actual price": 4181,
+      "predict price": 4187,
+      "percentage": 0.9985669930737998
+    },
+    {
+      "history": "2021(2)",
+      "actual price": 4689,
+      "predict price": 5111,
+      "percentage": 0.9174329876736451
+    },
+    {
+      "history": "2022(1)",
+      "actual price": 4974,
+      "predict price": 5705,
+      "percentage": 0.8718667835232252
+    },
+    {
+      "history": "2022(2)",
+      "actual price": 5358,
+      "predict price": 5743,
+      "percentage": 0.9329618666202333
+    },
+    {
+      "history": "2023(1)",
+      "actual price": 5335,
+      "predict price": 5786,
+      "percentage": 0.9220532319391636,
+      "max": "schools, hospitals,electricity",
+      "min": "population (-)",
+      "median": "puplict transportation"
+    },
+    {
+      "history": "2023(2)",
+      "actual price": 5898,
+      "predict price": 5882,
+      "percentage": 1.0027201632097926,
+      "max": "hospital",
+      "min": "population (-)",
+      "median": "GDP"
+    },
+    {
+      "history": "2024(1)",
+      "predict price": 7228,
+      "percentage": 0.9625109376165646
+    },
+    {
+      "history": "2024(2)",
+      "predict price": 7389
+    },
+    {
+      "history": "2025(1)",
+      "predict price": 7546.459999999999
+    },
+    {
+      "history": "2025(2)",
+      "predict price": 7699.799999999999
+    },
+    {
+      "history": "2026(1)",
+      "predict price": 7956
+    },
+    {
+      "history": "2026(2)",
+      "predict price": 8214
+    },
+    {
+      "history": "2027(1)",
+      "predict price": 8468
+    },
+    {
+      "history": "2027(2)",
+      "predict price": 8719
+    },
+    {
+      "history": "2028(1)",
+      "predict price": 8976
+    },
+    {
+      "history": "2028(2)",
+      "predict price": 9213
+    },
+    {
+      "history": "2029(1)",
+      "predict price": 9457
+    },
+    {
+      "history": "2029(2)",
+      "predict price": 9697
+    },
+    {
+      "history": 2030,
+      "predict price": 9938
+    }
+  ]
+}

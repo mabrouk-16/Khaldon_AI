@@ -1,0 +1,1365 @@
+{
+"Sheet1":[
+ {
+  "history": "2014_1",
+  "actual price": 2999,
+  "predict price": 2888,
+  "percentage": 1.0384349030470914
+ },
+ {
+  "history": "2014_2",
+  "actual price": 2850,
+  "predict price": 2850,
+  "percentage": 1
+ },
+ {
+  "history": "2015_1",
+  "actual price": 3155,
+  "predict price": 3020,
+  "percentage": 1.044701986754967
+ },
+ {
+  "history": "2015_2",
+  "actual price": 3040,
+  "predict price": 2956,
+  "percentage": 1.0284167794316643
+ },
+ {
+  "history": "2014_3",
+  "actual price": 3150,
+  "predict price": 2999,
+  "percentage": 1.0503501167055684
+ },
+ {
+  "history": "2014_4",
+  "actual price": 3275,
+  "predict price": 3256,
+  "percentage": 0.9941984732824427
+ },
+ {
+  "history": "2015_3",
+  "actual price": 3185,
+  "predict price": 3045,
+  "percentage": 0.9560439560439561
+ },
+ {
+  "history": "2015_4",
+  "actual price": 2713,
+  "predict price": 2659,
+  "percentage": 1.0203083866115081
+ },
+ {
+  "history": "2018(1)",
+  "actual price": 2351,
+  "predict price": 2500,
+  "percentage": 0.9404
+ },
+ {
+  "history": "2018(2)",
+  "actual price": 2326,
+  "predict price": 2450,
+  "percentage": 0.9493877551020408
+ },
+ {
+  "history": "2019(1)",
+  "actual price": 2516,
+  "predict price": 2361,
+  "percentage": 1.0656501482422702
+ },
+ {
+  "history": "2019(2)",
+  "actual price": 2754,
+  "predict price": 2587,
+  "percentage": 1.064553536915346
+ },
+ {
+  "history": "2020(1)",
+  "actual price": 2544,
+  "predict price": 2649,
+  "percentage": 1.0412735849056605
+ },
+ {
+  "history": "2020(2)",
+  "actual price": 2932,
+  "predict price": 2847,
+  "percentage": 0.9710095497953616
+ },
+ {
+  "history": "2021(1)",
+  "actual price": 3188,
+  "predict price": 3105,
+  "percentage": 0.9739648682559598
+ },
+ {
+  "history": "2021(2)",
+  "actual price": 3200,
+  "predict price": 3140,
+  "percentage": 1.019108280254777
+ },
+ {
+  "history": "2022(1)",
+  "actual price": 3976,
+  "predict price": 3865,
+  "percentage": 1.028719275549806
+ },
+ {
+  "history": "2022(2)",
+  "actual price": 4388,
+  "predict price": 4520,
+  "percentage": 0.9707964601769912
+ },
+ {
+  "history": "2023(1)",
+  "actual price": 5008,
+  "predict price": 4900,
+  "percentage": 1.0220408163265307,
+  "max": "schools, hospitals,electricity",
+  "min": "population (-)",
+  "median": "puplict transportation"
+ },
+ {
+  "history": "2023(2)",
+  "actual price": 4022,
+  "predict price": 4506,
+  "percentage": 0.8925876608965824,
+  "max": "hospital",
+  "min": "population (-)",
+  "median": "GDP"
+ },
+ {
+  "history": "2024(1)",
+  "predict price": 4604,
+  "percentage": 1.0035973269149263
+ },
+ {
+  "history": "2024(2)",
+  "predict price": 4708
+ },
+ {
+  "history": "2025(1)",
+  "predict price": 4809
+ },
+ {
+  "history": "2025(2)",
+  "predict price": 5985
+ },
+ {
+  "history": "2026(1)",
+  "predict price": 6187
+ },
+ {
+  "history": "2026(2)",
+  "predict price": 6387
+ },
+ {
+  "history": "2027(1)",
+  "predict price": 6585
+ },
+ {
+  "history": "2027(2)",
+  "predict price": 6781
+ },
+ {
+  "history": "2028(1)",
+  "predict price": 6975
+ },
+ {
+  "history": "2028(2)",
+  "predict price": 7167
+ },
+ {
+  "history": "2029(1)",
+  "predict price": 7357
+ },
+ {
+  "history": "2029(2)",
+  "predict price": 7546
+ },
+ {
+  "history": "2030",
+  "predict price": 7733
+ }
+],
+"Sheet2":[
+ {
+  "Month": "January",
+  "date": 1,
+  "actual price": 2999,
+  "predicted prices": 2888,
+  "accuracy": 1.0384349030470914
+ },
+ {
+  "Month": "February",
+  "date": 2,
+  "actual price": 2984.1,
+  "predicted prices": 2899,
+  "accuracy": 1.0293549499827526
+ },
+ {
+  "Month": "March",
+  "date": 3,
+  "actual price": 2969.2,
+  "predicted prices": 2910,
+  "accuracy": 1.0203436426116839
+ },
+ {
+  "Month": "April",
+  "date": 4,
+  "actual price": 2954.2999999999997,
+  "predicted prices": 2921,
+  "accuracy": 1.0114002054091065
+ },
+ {
+  "Month": "May",
+  "date": 5,
+  "actual price": 2939.3999999999996,
+  "predicted prices": 2932,
+  "accuracy": 1.0025238744884037
+ },
+ {
+  "Month": "June",
+  "date": 6,
+  "actual price": 2924.4999999999995,
+  "predicted prices": 2943,
+  "accuracy": 0.993713897383622
+ },
+ {
+  "Month": "July",
+  "date": 7,
+  "actual price": 2909.5999999999995,
+  "predicted prices": 2850,
+  "accuracy": 1.020912280701754
+ },
+ {
+  "Month": "August",
+  "date": 8,
+  "actual price": 2894.6999999999994,
+  "predicted prices": 2861,
+  "accuracy": 1.0117790982174062
+ },
+ {
+  "Month": "September",
+  "date": 9,
+  "actual price": 2879.7999999999993,
+  "predicted prices": 2872,
+  "accuracy": 1.0027158774373257
+ },
+ {
+  "Month": "October",
+  "date": 10,
+  "actual price": 2864.899999999999,
+  "predicted prices": 2883,
+  "accuracy": 0.9937218175511617
+ },
+ {
+  "Month": "November",
+  "date": 11,
+  "actual price": 2849.999999999999,
+  "predicted prices": 2894,
+  "accuracy": 0.9847961299239804
+ },
+ {
+  "Month": "December",
+  "date": 12,
+  "actual price": 2835.099999999999,
+  "predicted prices": 2905,
+  "accuracy": 0.9759380378657484
+ },
+ {
+  "Month": "January",
+  "date": 13,
+  "actual price": 3155,
+  "predicted prices": 3020,
+  "accuracy": 1.044701986754967
+ },
+ {
+  "Month": "February",
+  "date": 14,
+  "actual price": 3143.5,
+  "predicted prices": 3031,
+  "accuracy": 1.0371164632134608
+ },
+ {
+  "Month": "March",
+  "date": 15,
+  "actual price": 3132,
+  "predicted prices": 3042,
+  "accuracy": 1.029585798816568
+ },
+ {
+  "Month": "April",
+  "date": 16,
+  "actual price": 3120.5,
+  "predicted prices": 3053,
+  "accuracy": 1.022109400589584
+ },
+ {
+  "Month": "May",
+  "date": 17,
+  "actual price": 3109,
+  "predicted prices": 3064,
+  "accuracy": 1.014686684073107
+ },
+ {
+  "Month": "June",
+  "date": 18,
+  "actual price": 3097.5,
+  "predicted prices": 3075,
+  "accuracy": 1.0073170731707317
+ },
+ {
+  "Month": "July",
+  "date": 19,
+  "actual price": 3086,
+  "predicted prices": 2956,
+  "accuracy": 1.043978349120433
+ },
+ {
+  "Month": "August",
+  "date": 20,
+  "actual price": 3074.5,
+  "predicted prices": 2965,
+  "accuracy": 1.0369308600337268
+ },
+ {
+  "Month": "September",
+  "date": 21,
+  "actual price": 3063,
+  "predicted prices": 2974,
+  "accuracy": 1.0299260255548084
+ },
+ {
+  "Month": "October",
+  "date": 22,
+  "actual price": 3051.5,
+  "predicted prices": 2983,
+  "accuracy": 1.022963459604425
+ },
+ {
+  "Month": "November",
+  "date": 23,
+  "actual price": 3040,
+  "predicted prices": 2992,
+  "accuracy": 1.0160427807486632
+ },
+ {
+  "Month": "December",
+  "date": 24,
+  "actual price": 3028.5,
+  "predicted prices": 3001,
+  "accuracy": 1.0091636121292902
+ },
+ {
+  "Month": "January",
+  "date": 25,
+  "actual price": 3150,
+  "predicted prices": 2999,
+  "accuracy": 1.0503501167055684
+ },
+ {
+  "Month": "February",
+  "date": 26,
+  "actual price": 3161.37,
+  "predicted prices": 3010,
+  "accuracy": 1.0502890365448505
+ },
+ {
+  "Month": "March",
+  "date": 27,
+  "actual price": 3172.74,
+  "predicted prices": 3021,
+  "accuracy": 1.0502284011916583
+ },
+ {
+  "Month": "April",
+  "date": 28,
+  "actual price": 3184.1099999999997,
+  "predicted prices": 3032,
+  "accuracy": 1.0501682058047492
+ },
+ {
+  "Month": "May",
+  "date": 29,
+  "actual price": 3195.4799999999996,
+  "predicted prices": 3043,
+  "accuracy": 1.050108445612882
+ },
+ {
+  "Month": "June",
+  "date": 30,
+  "actual price": 3206.8499999999995,
+  "predicted prices": 3054,
+  "accuracy": 1.0500491159135559
+ },
+ {
+  "Month": "July",
+  "date": 31,
+  "actual price": 3218.2199999999993,
+  "predicted prices": 3256,
+  "accuracy": 0.9883968058968057
+ },
+ {
+  "Month": "August",
+  "date": 32,
+  "actual price": 3333,
+  "predicted prices": 3264,
+  "accuracy": 1.021139705882353
+ },
+ {
+  "Month": "September",
+  "date": 33,
+  "actual price": 3344.37,
+  "predicted prices": 3272,
+  "accuracy": 1.0221179706601466
+ },
+ {
+  "Month": "October",
+  "date": 34,
+  "actual price": 3355.74,
+  "predicted prices": 3280,
+  "accuracy": 1.023091463414634
+ },
+ {
+  "Month": "November",
+  "date": 35,
+  "actual price": 3367.1099999999997,
+  "predicted prices": 3288,
+  "accuracy": 1.024060218978102
+ },
+ {
+  "Month": "December",
+  "date": 36,
+  "actual price": 3378.4799999999996,
+  "predicted prices": 3296,
+  "accuracy": 1.02502427184466
+ },
+ {
+  "Month": "January",
+  "date": 37,
+  "actual price": 3185,
+  "predicted prices": 3045,
+  "accuracy": 1.0459770114942528
+ },
+ {
+  "Month": "February",
+  "date": 38,
+  "actual price": 3142.0909091,
+  "predicted prices": 3056,
+  "accuracy": 1.0281711089986911
+ },
+ {
+  "Month": "March",
+  "date": 39,
+  "actual price": 3099.1818181999997,
+  "predicted prices": 3067,
+  "accuracy": 1.0104929306162374
+ },
+ {
+  "Month": "April",
+  "date": 40,
+  "actual price": 3056.2727272999996,
+  "predicted prices": 3078,
+  "accuracy": 0.9929411069850551
+ },
+ {
+  "Month": "May",
+  "date": 41,
+  "actual price": 3013.3636363999995,
+  "predicted prices": 3089,
+  "accuracy": 0.975514288248624
+ },
+ {
+  "Month": "June",
+  "date": 42,
+  "actual price": 2970.4545454999993,
+  "predicted prices": 3100,
+  "accuracy": 0.9582111437096772
+ },
+ {
+  "Month": "July",
+  "date": 43,
+  "actual price": 2927.545454599999,
+  "predicted prices": 2659,
+  "accuracy": 1.1009949058292587
+ },
+ {
+  "Month": "August",
+  "date": 44,
+  "actual price": 2884.636363699999,
+  "predicted prices": 2668,
+  "accuracy": 1.0811980373688153
+ },
+ {
+  "Month": "September",
+  "date": 45,
+  "actual price": 2841.727272799999,
+  "predicted prices": 2677,
+  "accuracy": 1.0615342819574145
+ },
+ {
+  "Month": "October",
+  "date": 46,
+  "actual price": 2798.8181818999988,
+  "predicted prices": 2686,
+  "accuracy": 0.9596907785473184
+ },
+ {
+  "Month": "November",
+  "date": 47,
+  "actual price": 2755.9090909999986,
+  "predicted prices": 2695,
+  "accuracy": 1.0226007758812612
+ },
+ {
+  "Month": "December",
+  "date": 48,
+  "actual price": 2713.0000000999985,
+  "predicted prices": 2704,
+  "accuracy": 1.0033284024038456
+ },
+ {
+  "Month": "January",
+  "date": 49,
+  "actual price": 2351,
+  "predicted prices": 2500,
+  "accuracy": 0.9404
+ },
+ {
+  "Month": "February",
+  "date": 50,
+  "actual price": 2348.727273,
+  "predicted prices": 2509,
+  "accuracy": 0.9361208740534077
+ },
+ {
+  "Month": "March",
+  "date": 51,
+  "actual price": 2346.454546,
+  "predicted prices": 2518,
+  "accuracy": 0.9318723375694996
+ },
+ {
+  "Month": "April",
+  "date": 52,
+  "actual price": 2344.181819,
+  "predicted prices": 2527,
+  "accuracy": 0.9276540637119113
+ },
+ {
+  "Month": "May",
+  "date": 53,
+  "actual price": 2341.909092,
+  "predicted prices": 2536,
+  "accuracy": 0.9234657302839117
+ },
+ {
+  "Month": "June",
+  "date": 54,
+  "actual price": 2339.636365,
+  "predicted prices": 2545,
+  "accuracy": 0.9193070196463654
+ },
+ {
+  "Month": "July",
+  "date": 55,
+  "actual price": 2337.363638,
+  "predicted prices": 2450,
+  "accuracy": 0.9540259746938775
+ },
+ {
+  "Month": "August",
+  "date": 56,
+  "actual price": 2335.090911,
+  "predicted prices": 2458,
+  "accuracy": 0.9499963022782749
+ },
+ {
+  "Month": "September",
+  "date": 57,
+  "actual price": 2332.8181839999997,
+  "predicted prices": 2466,
+  "accuracy": 0.9459927753446876
+ },
+ {
+  "Month": "October",
+  "date": 58,
+  "actual price": 2330.5454569999997,
+  "predicted prices": 2474,
+  "accuracy": 0.9420151402586903
+ },
+ {
+  "Month": "November",
+  "date": 59,
+  "actual price": 2328.2727299999997,
+  "predicted prices": 2482,
+  "accuracy": 0.9380631466559225
+ },
+ {
+  "Month": "December",
+  "date": 60,
+  "actual price": 2326.0000029999997,
+  "predicted prices": 2490,
+  "accuracy": 0.9341365473895581
+ },
+ {
+  "Month": "January",
+  "date": 61,
+  "actual price": 2516,
+  "predicted prices": 2361,
+  "accuracy": 1.0656501482422702
+ },
+ {
+  "Month": "February",
+  "date": 62,
+  "actual price": 2537.6363636,
+  "predicted prices": 2372,
+  "accuracy": 1.0698298328836426
+ },
+ {
+  "Month": "March",
+  "date": 63,
+  "actual price": 2559.2727272,
+  "predicted prices": 2383,
+  "accuracy": 1.0739709304238356
+ },
+ {
+  "Month": "April",
+  "date": 64,
+  "actual price": 2580.9090908000003,
+  "predicted prices": 2394,
+  "accuracy": 1.0780739727652466
+ },
+ {
+  "Month": "May",
+  "date": 65,
+  "actual price": 2602.5454544000004,
+  "predicted prices": 2405,
+  "accuracy": 1.0821394820790022
+ },
+ {
+  "Month": "June",
+  "date": 66,
+  "actual price": 2624.1818180000005,
+  "predicted prices": 2416,
+  "accuracy": 1.0861679710264902
+ },
+ {
+  "Month": "July",
+  "date": 67,
+  "actual price": 2645.8181816000006,
+  "predicted prices": 2587,
+  "accuracy": 1.0227360578275997
+ },
+ {
+  "Month": "August",
+  "date": 68,
+  "actual price": 2667.4545452000007,
+  "predicted prices": 2598,
+  "accuracy": 1.0267338511162436
+ },
+ {
+  "Month": "September",
+  "date": 69,
+  "actual price": 2689.0909088000008,
+  "predicted prices": 2609,
+  "accuracy": 1.030697933614412
+ },
+ {
+  "Month": "October",
+  "date": 70,
+  "actual price": 2710.727272400001,
+  "predicted prices": 2620,
+  "accuracy": 1.0346287299236645
+ },
+ {
+  "Month": "November",
+  "date": 71,
+  "actual price": 2732.363636000001,
+  "predicted prices": 2631,
+  "accuracy": 1.0385266575446601
+ },
+ {
+  "Month": "December",
+  "date": 72,
+  "actual price": 2753.999999600001,
+  "predicted prices": 2642,
+  "accuracy": 1.0423921270249814
+ },
+ {
+  "Month": "January",
+  "date": 73,
+  "actual price": 2544,
+  "predicted prices": 2649,
+  "accuracy": 0.9603624009060022
+ },
+ {
+  "Month": "February",
+  "date": 74,
+  "actual price": 2579.27272727,
+  "predicted prices": 2660,
+  "accuracy": 0.9696514012293233
+ },
+ {
+  "Month": "March",
+  "date": 75,
+  "actual price": 2614.54545454,
+  "predicted prices": 2671,
+  "accuracy": 0.9788638916286034
+ },
+ {
+  "Month": "April",
+  "date": 76,
+  "actual price": 2649.8181818099997,
+  "predicted prices": 2682,
+  "accuracy": 0.9880008135011185
+ },
+ {
+  "Month": "May",
+  "date": 77,
+  "actual price": 2685.0909090799996,
+  "predicted prices": 2693,
+  "accuracy": 0.9970630928629779
+ },
+ {
+  "Month": "June",
+  "date": 78,
+  "actual price": 2720.3636363499995,
+  "predicted prices": 2704,
+  "accuracy": 1.0060516406619822
+ },
+ {
+  "Month": "July",
+  "date": 79,
+  "actual price": 2755.6363636199994,
+  "predicted prices": 2847,
+  "accuracy": 0.967908803519494
+ },
+ {
+  "Month": "August",
+  "date": 80,
+  "actual price": 2790.9090908899993,
+  "predicted prices": 2858,
+  "accuracy": 0.9765252242442265
+ },
+ {
+  "Month": "September",
+  "date": 81,
+  "actual price": 2826.1818181599992,
+  "predicted prices": 2869,
+  "accuracy": 0.9850755727291737
+ },
+ {
+  "Month": "October",
+  "date": 82,
+  "actual price": 2861.454545429999,
+  "predicted prices": 2880,
+  "accuracy": 0.9935606060520831
+ },
+ {
+  "Month": "November",
+  "date": 83,
+  "actual price": 2896.727272699999,
+  "predicted prices": 2891,
+  "accuracy": 1.0019810697682459
+ },
+ {
+  "Month": "December",
+  "date": 84,
+  "actual price": 2931.999999969999,
+  "predicted prices": 2902,
+  "accuracy": 1.0103376981288763
+ },
+ {
+  "Month": "January",
+  "date": 85,
+  "actual price": 3188,
+  "predicted prices": 3105,
+  "accuracy": 1.026731078904992
+ },
+ {
+  "Month": "February",
+  "date": 86,
+  "actual price": 3297.0909090909,
+  "predicted prices": 3114,
+  "accuracy": 1.0587960530157032
+ },
+ {
+  "Month": "March",
+  "date": 87,
+  "actual price": 3406.1818181818,
+  "predicted prices": 3123,
+  "accuracy": 1.0906762145955171
+ },
+ {
+  "Month": "April",
+  "date": 88,
+  "actual price": 3515.2727272726997,
+  "predicted prices": 3132,
+  "accuracy": 1.1223731568559068
+ },
+ {
+  "Month": "May",
+  "date": 89,
+  "actual price": 3624.3636363635997,
+  "predicted prices": 3141,
+  "accuracy": 1.153888454748042
+ },
+ {
+  "Month": "June",
+  "date": 90,
+  "actual price": 3733.4545454544996,
+  "predicted prices": 3150,
+  "accuracy": 1.1852236652236507
+ },
+ {
+  "Month": "July",
+  "date": 91,
+  "actual price": 3842.5454545453995,
+  "predicted prices": 4520,
+  "accuracy": 0.8501206757843804
+ },
+ {
+  "Month": "August",
+  "date": 92,
+  "actual price": 3951.6363636362994,
+  "predicted prices": 4527,
+  "accuracy": 0.8729039902001987
+ },
+ {
+  "Month": "September",
+  "date": 93,
+  "actual price": 4060.7272727271993,
+  "predicted prices": 4534,
+  "accuracy": 0.8956169547258931
+ },
+ {
+  "Month": "October",
+  "date": 94,
+  "actual price": 4169.818181818099,
+  "predicted prices": 4541,
+  "accuracy": 0.9182598946967847
+ },
+ {
+  "Month": "November",
+  "date": 95,
+  "actual price": 4278.909090908999,
+  "predicted prices": 4548,
+  "accuracy": 0.9408331334452504
+ },
+ {
+  "Month": "December",
+  "date": 96,
+  "actual price": 4387.999999999899,
+  "predicted prices": 4555,
+  "accuracy": 0.9633369923161139
+ },
+ {
+  "Month": "January",
+  "date": 97,
+  "actual price": 4022,
+  "predicted prices": 4506,
+  "accuracy": 0.8925876608965824
+ },
+ {
+  "Month": "February",
+  "date": 98,
+  "actual price": 4032,
+  "predicted prices": 4517,
+  "accuracy": 0.8926278503431481
+ },
+ {
+  "Month": "March",
+  "date": 99,
+  "actual price": 4042,
+  "predicted prices": 4528,
+  "accuracy": 0.8926678445229682
+ },
+ {
+  "Month": "April",
+  "date": 100,
+  "actual price": 4052,
+  "predicted prices": 4539,
+  "accuracy": 0.8927076448556951
+ },
+ {
+  "Month": "May",
+  "date": 101,
+  "actual price": 4062,
+  "predicted prices": 4550,
+  "accuracy": 0.8927472527472528
+ },
+ {
+  "Month": "June",
+  "date": 102,
+  "actual price": 4072,
+  "predicted prices": 4561,
+  "accuracy": 0.8927866695900022
+ },
+ {
+  "Month": "July",
+  "date": 103,
+  "actual price": 4082,
+  "predicted prices": 4506,
+  "accuracy": 0.9059032401242787
+ },
+ {
+  "Month": "August",
+  "date": 104,
+  "actual price": 4092,
+  "predicted prices": 4517,
+  "accuracy": 0.9059110028780164
+ },
+ {
+  "Month": "September",
+  "date": 105,
+  "actual price": 4102,
+  "predicted prices": 4528,
+  "accuracy": 0.9059187279151943
+ },
+ {
+  "Month": "October",
+  "date": 106,
+  "actual price": 4112,
+  "predicted prices": 4539,
+  "accuracy": 0.9059264155100243
+ },
+ {
+  "Month": "November",
+  "date": 107,
+  "actual price": 4122,
+  "predicted prices": 4550,
+  "accuracy": 0.9059340659340659
+ },
+ {
+  "Month": "December",
+  "date": 108,
+  "actual price": 4132,
+  "predicted prices": 4561,
+  "accuracy": 0.9059416794562596
+ },
+ {
+  "Month": "January",
+  "date": 109,
+  "predicted prices": 4604,
+  "accuracy": 0.9967244062944108
+ },
+ {
+  "Month": "February",
+  "date": 110,
+  "predicted prices": 4613
+ },
+ {
+  "Month": "March",
+  "date": 111,
+  "predicted prices": 4733
+ },
+ {
+  "Month": "April",
+  "date": 112,
+  "predicted prices": 4742
+ },
+ {
+  "Month": "May",
+  "date": 113,
+  "predicted prices": 4751
+ },
+ {
+  "Month": "June",
+  "date": 114,
+  "predicted prices": 4760
+ },
+ {
+  "Month": "July",
+  "date": 115,
+  "predicted prices": 4708
+ },
+ {
+  "Month": "August",
+  "date": 116,
+  "predicted prices": 4717
+ },
+ {
+  "Month": "September",
+  "date": 117,
+  "predicted prices": 4726
+ },
+ {
+  "Month": "October",
+  "date": 118,
+  "predicted prices": 4735
+ },
+ {
+  "Month": "November",
+  "date": 119,
+  "predicted prices": 4988
+ },
+ {
+  "Month": "December",
+  "date": 120,
+  "predicted prices": 4997
+ },
+ {
+  "Month": "January",
+  "date": 121,
+  "predicted prices": 4809
+ },
+ {
+  "Month": "February",
+  "date": 122,
+  "predicted prices": 4818
+ },
+ {
+  "Month": "March",
+  "date": 123,
+  "predicted prices": 4827
+ },
+ {
+  "Month": "April",
+  "date": 124,
+  "predicted prices": 4836
+ },
+ {
+  "Month": "May",
+  "date": 125,
+  "predicted prices": 4845
+ },
+ {
+  "Month": "June",
+  "date": 126,
+  "predicted prices": 4854
+ },
+ {
+  "Month": "July",
+  "date": 127,
+  "predicted prices": 5985
+ },
+ {
+  "Month": "August",
+  "date": 128,
+  "predicted prices": 5994
+ },
+ {
+  "Month": "September",
+  "date": 129,
+  "predicted prices": 6003
+ },
+ {
+  "Month": "October",
+  "date": 130,
+  "predicted prices": 6012
+ },
+ {
+  "Month": "November",
+  "date": 131,
+  "predicted prices": 6021
+ },
+ {
+  "Month": "December",
+  "date": 132,
+  "predicted prices": 6030
+ },
+ {
+  "Month": "January",
+  "date": 133,
+  "predicted prices": 6187
+ },
+ {
+  "Month": "February",
+  "date": 134,
+  "predicted prices": 6196
+ },
+ {
+  "Month": "March",
+  "date": 135,
+  "predicted prices": 6205
+ },
+ {
+  "Month": "April",
+  "date": 136,
+  "predicted prices": 6214
+ },
+ {
+  "Month": "May",
+  "date": 137,
+  "predicted prices": 6223
+ },
+ {
+  "Month": "June",
+  "date": 138,
+  "predicted prices": 6232
+ },
+ {
+  "Month": "July",
+  "date": 139,
+  "predicted prices": 6387
+ },
+ {
+  "Month": "August",
+  "date": 140,
+  "predicted prices": 6396
+ },
+ {
+  "Month": "September",
+  "date": 141,
+  "predicted prices": 6405
+ },
+ {
+  "Month": "October",
+  "date": 142,
+  "predicted prices": 6414
+ },
+ {
+  "Month": "November",
+  "date": 143,
+  "predicted prices": 6423
+ },
+ {
+  "Month": "December",
+  "date": 144,
+  "predicted prices": 6432
+ },
+ {
+  "Month": "January",
+  "date": 145,
+  "predicted prices": 6585
+ },
+ {
+  "Month": "February",
+  "date": 146,
+  "predicted prices": 6594
+ },
+ {
+  "Month": "March",
+  "date": 147,
+  "predicted prices": 6603
+ },
+ {
+  "Month": "April",
+  "date": 148,
+  "predicted prices": 6612
+ },
+ {
+  "Month": "May",
+  "date": 149,
+  "predicted prices": 6621
+ },
+ {
+  "Month": "June",
+  "date": 150,
+  "predicted prices": 6630
+ },
+ {
+  "Month": "July",
+  "date": 151,
+  "predicted prices": 6781
+ },
+ {
+  "Month": "August",
+  "date": 152,
+  "predicted prices": 6790
+ },
+ {
+  "Month": "September",
+  "date": 153,
+  "predicted prices": 6799
+ },
+ {
+  "Month": "October",
+  "date": 154,
+  "predicted prices": 6808
+ },
+ {
+  "Month": "November",
+  "date": 155,
+  "predicted prices": 6817
+ },
+ {
+  "Month": "December",
+  "date": 156,
+  "predicted prices": 6826
+ },
+ {
+  "Month": "January",
+  "date": 157,
+  "predicted prices": 6975
+ },
+ {
+  "Month": "February",
+  "date": 158,
+  "predicted prices": 6984
+ },
+ {
+  "Month": "March",
+  "date": 159,
+  "predicted prices": 6993
+ },
+ {
+  "Month": "April",
+  "date": 160,
+  "predicted prices": 7002
+ },
+ {
+  "Month": "May",
+  "date": 161,
+  "predicted prices": 7594
+ },
+ {
+  "Month": "June",
+  "date": 162,
+  "predicted prices": 7942
+ },
+ {
+  "Month": "July",
+  "date": 163,
+  "predicted prices": 7167
+ },
+ {
+  "Month": "August",
+  "date": 164,
+  "predicted prices": 7176
+ },
+ {
+  "Month": "September",
+  "date": 165,
+  "predicted prices": 7185
+ },
+ {
+  "Month": "October",
+  "date": 166,
+  "predicted prices": 7194
+ },
+ {
+  "Month": "November",
+  "date": 167,
+  "predicted prices": 7203
+ },
+ {
+  "Month": "December",
+  "date": 168,
+  "predicted prices": 7212
+ },
+ {
+  "Month": "January",
+  "date": 169,
+  "predicted prices": 7357
+ },
+ {
+  "Month": "February",
+  "date": 170,
+  "predicted prices": 7366
+ },
+ {
+  "Month": "March",
+  "date": 171,
+  "predicted prices": 7375
+ },
+ {
+  "Month": "April",
+  "date": 172,
+  "predicted prices": 7384
+ },
+ {
+  "Month": "May",
+  "date": 173,
+  "predicted prices": 7393
+ },
+ {
+  "Month": "June",
+  "date": 174,
+  "predicted prices": 7402
+ },
+ {
+  "Month": "July",
+  "date": 175,
+  "predicted prices": 7546
+ },
+ {
+  "Month": "August",
+  "date": 176,
+  "predicted prices": 7555
+ },
+ {
+  "Month": "September",
+  "date": 177,
+  "predicted prices": 7564
+ },
+ {
+  "Month": "October",
+  "date": 178,
+  "predicted prices": 7573
+ },
+ {
+  "Month": "November",
+  "date": 179,
+  "predicted prices": 7582
+ },
+ {
+  "Month": "December",
+  "date": 180,
+  "predicted prices": 7591
+ },
+ {
+  "Month": "January",
+  "date": 181,
+  "predicted prices": 7733
+ },
+ {
+  "Month": "February",
+  "date": 182,
+  "predicted prices": 7742
+ },
+ {
+  "Month": "March",
+  "date": 183,
+  "predicted prices": 7751
+ },
+ {
+  "Month": "April",
+  "date": 184,
+  "predicted prices": 7760
+ },
+ {
+  "Month": "May",
+  "date": 185,
+  "predicted prices": 7769
+ },
+ {
+  "Month": "June",
+  "date": 186,
+  "predicted prices": 7778
+ },
+ {
+  "Month": "July",
+  "date": 187,
+  "predicted prices": 7787
+ },
+ {
+  "Month": "August",
+  "date": 188,
+  "predicted prices": 7796
+ },
+ {
+  "Month": "September",
+  "date": 189,
+  "predicted prices": 7805
+ },
+ {
+  "Month": "October",
+  "date": 190,
+  "predicted prices": 7814
+ },
+ {
+  "Month": "November",
+  "date": 191,
+  "predicted prices": 7823
+ },
+ {
+  "Month": "December",
+  "date": 192,
+  "predicted prices": 7832
+ },
+ {
+  "date": 193
+ }
+]
+}
