@@ -45,6 +45,7 @@ export class AppComponent {
   displayedAreas: any[] = [];
   areas: any[] = [];
   showSelection = true;
+  showError= false;
   isLoading = false;
   filteredOptions!: Observable<OptionObj[]>;
   filteredYears: string[] = [];
@@ -98,16 +99,20 @@ export class AppComponent {
       next: (res) => {
         // console.log(res);
         this.isLoading = true;
+          this.showError = false;
         setTimeout(() => {
           this.isLoading = false;
         }, 500);
-
+        
         this.areas = [...res.Sheet1];
         // console.log(data)
         this.displayedAreas = res.Sheet1.filter((area: any) => {
           // console.log(area);
           return area.history?.toString().includes(this.year.trim());
         });
+        if (!this.displayedAreas.length) {
+          this.showError = true;
+        }
         // console.log(this.displayedAreas);
         this.showSelection = false;
         // this.myControl.setValue('');
